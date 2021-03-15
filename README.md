@@ -1,4 +1,4 @@
-# Developer!
+# Look! A developer!
 - 👋 Hi, I’m @tallysprado
 - 🖥️ I'm a full stack developer :iphone: :computer: :computer_mouse:
 
