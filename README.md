@@ -9,6 +9,7 @@
 - 💞️ I’m like to colaborate with social entrepreneurship projects. Here I've developed apps low vision people and another kind of autonomous projects.
 - 📫 You can find me many places in *web*:
 > [LinkedIn](https://www.linkedin.com/in/tallys-prado-173077144/)
+> 
 > [E-mail](tallys.prado@gmail.com)
 
 _ I like to integrate DevOps concepts even with my personal projects cuz this promove a further learning and security applications. _
