@@ -12,7 +12,7 @@
 - 📫 You can find me many places in *web*:
 > [LinkedIn](https://www.linkedin.com/in/tallys-prado-173077144/)
 > 
-> [WhatsApp](https://wa.me/5588996510001?text=Hello%20Tallys!%20I%20gonna%20hire%20you%20for%20two%20thousands%20bucks!)
+> [WhatsApp](https://wa.me/5588996510001?text=Olá,%20Tallys!)
 
 # How do I develop?
 - 👨‍💻 The latest projects you gonna see my React skills.
