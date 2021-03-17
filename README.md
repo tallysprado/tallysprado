@@ -5,7 +5,7 @@
 # What kind of projects you gonna find here?
 - [Complete IQ Option real time trading API](https://github.com/tallysprado/copycash) *React, NextJS, Flask, PostgreSQL, JWT authentications and NGINX web serving.* 
 - [Free React Native e-commerce basis projects](https://github.com/tallysprado/fashionapp) *React Native, NodeJS, mSQL*
-- [Free NextJS Personal Page](https://github.com/tallysprado/PersonalPage) *React, NextJS*
+- [Free NextJS Personal Page](https://github.com/tallysprado/PersonalPage) *React, NextJS, jQuery*
 - [App to low vision people use in supermarkets](https://github.com/tallysprado/Blinder0.5) *Android, OpenCV, Tensorflow*
 
 # Contact
