@@ -5,7 +5,7 @@
 I've had projects with:
 <p>
   <img src="https://img.shields.io/badge/-react.js-282c34?logo=react&logoColor=61DAFB&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-reactnative%20-282c34?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-react%20native%20-282c34?logo=react&logoColor=61DAFB&style=for-the-badge" />
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-flask%20-000000?logo=flask&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-jquery%20-0769ad?logo=jquery&logoColor=white&style=for-the-badge" />
@@ -14,7 +14,7 @@ I've had projects with:
 # Studying
 At college I've done projects using:
 <p>
-  <img src="https://img.shields.io/badge/-android%20studio%20-3ddc84?logo=androidstudio&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-android%20studio%20-3ddc84?logo=android&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-tensorflow-ff6f00?logo=tensorflow&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-opencv%20-5c3ee8?logo=opencv&logoColor=white&style=for-the-badge" />
 </p>
