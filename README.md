@@ -14,7 +14,7 @@
 # How do I develop?
 Working area :working: Working Area :working: Working Area :working:
 <p>
-  <img src="https://img.shields.io/badge/react-ReactJS-#61dbfb?logo=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />
+  <img src="https://img.shields.io/badge/react-ReactJS-#61dbfb?logo=react" />
  </p>
 # Contact
 - 📫 You can find me many places in *web*:
