@@ -1,7 +1,7 @@
-# HELLO WORLD
-- 👋 I,M TALLYS!
+# HELLO WORLD 👋
+- I,M TALLYS!
 
-# How do I develop?
+# How do I develop? 💻
 I've had projects with:
 <p>
   <img src="https://img.shields.io/badge/-react.js-282c34?logo=react&logoColor=61DAFB&style=for-the-badge" />
@@ -11,7 +11,8 @@ I've had projects with:
   <img src="https://img.shields.io/badge/-jquery%20-0769ad?logo=jquery&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-postgresql%20-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
 </p>
-# Studying
+
+# Studying 🚀
 At college I've done projects using:
 <p>
   <img src="https://img.shields.io/badge/-android%20studio%20-3ddc84?logo=android&logoColor=white&style=for-the-badge" />
