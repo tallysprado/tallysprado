@@ -17,7 +17,7 @@ I'm working with free lancer jobs using
   <img src="https://img.shields.io/badge/-react.js-282c34?logo=react&logoColor=61DAFB&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-reactnative%20-282c34?logo=react&logoColor=61DAFB&style=for-the-badge" />
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-flask%20-#000000?logo=react&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-flask%20-000000?logo=react&logoColor=white&style=for-the-badge" />
 
  </p>
  
