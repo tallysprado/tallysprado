@@ -26,8 +26,8 @@ At college I've done projects using:
 - [App to low vision people use in supermarkets](https://github.com/tallysprado/Blinder0.5) *Android, OpenCV, Tensorflow*
 
 
-# Contact
-- 📫 You can find me many places in *web*:
+# Feel free to talk with me any time!
 > [LinkedIn](https://www.linkedin.com/in/tallys-prado-173077144/)
+> 
 > [WhatsApp](https://wa.me/5588996510001?text=Olá,%20Tallys!)
 
