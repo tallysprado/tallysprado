@@ -14,8 +14,9 @@
 # How do I develop?
 Working area :working: Working Area :working: Working Area :working:
 <p>
-  <img src="https://img.shields.io/badge/?style=for-the-badge&logo=react />
+  <img src="https://img.shields.io/badge/-react%20-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
  </p>
+ 
 # Contact
 - 📫 You can find me many places in *web*:
 > [LinkedIn](https://www.linkedin.com/in/tallys-prado-173077144/)
