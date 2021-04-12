@@ -12,10 +12,12 @@
 - [App to low vision people use in supermarkets](https://github.com/tallysprado/Blinder0.5) *Android, OpenCV, Tensorflow*
 
 # How do I develop?
-Working area :working: Working Area :working: Working Area :working:
+I'm working with free lancer jobs using
 <p>
-  <img src="https://img.shields.io/badge/-react-js%20-282c34?logo=react&logoColor=61DAFB&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-react-native%20-282c34?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-react.js-282c34?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-react%20native-282c34?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-flask-#000000?logo=react&logoColor=white&style=for-the-badge" />
 
  </p>
  
