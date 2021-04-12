@@ -1,15 +1,5 @@
-# Look! A developer!
-- 👋 Hi, I’m @tallysprado
-- 🖥️ I'm a full stack developer :iphone: :computer: :computer_mouse:
-
-# How do I develop?
-
-
-# What kind of projects you gonna find here?
-- [Complete IQ Option real time trading API](https://github.com/tallysprado/copycash) *React, NextJS, Flask, PostgreSQL, JWT authentications and NGINX web serving.* 
-- [Free React Native e-commerce basis projects](https://github.com/tallysprado/fashionapp) *React Native, NodeJS, mSQL*
-- [Free NextJS Personal Page](https://github.com/tallysprado/PersonalPage) *React, NextJS, jQuery*
-- [App to low vision people use in supermarkets](https://github.com/tallysprado/Blinder0.5) *Android, OpenCV, Tensorflow*
+# HELLO WORLD
+- 👋 I,M TALLYS!
 
 # How do I develop?
 I've had projects with:
@@ -28,9 +18,16 @@ At college I've done projects using:
   <img src="https://img.shields.io/badge/-tensorflow-ff6f00?logo=tensorflow&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-opencv%20-5c3ee8?logo=opencv&logoColor=white&style=for-the-badge" />
 </p>
+
+# What kind of projects you gonna find here?
+- [Complete IQ Option real time trading API](https://github.com/tallysprado/copycash) *React, NextJS, Flask, PostgreSQL, JWT authentications and NGINX web serving.* 
+- [Free React Native e-commerce basis projects](https://github.com/tallysprado/fashionapp) *React Native, NodeJS, mSQL*
+- [Free NextJS Personal Page](https://github.com/tallysprado/PersonalPage) *React, NextJS, jQuery*
+- [App to low vision people use in supermarkets](https://github.com/tallysprado/Blinder0.5) *Android, OpenCV, Tensorflow*
+
+
 # Contact
 - 📫 You can find me many places in *web*:
 > [LinkedIn](https://www.linkedin.com/in/tallys-prado-173077144/)
-> 
 > [WhatsApp](https://wa.me/5588996510001?text=Olá,%20Tallys!)
 
