@@ -1,5 +1,4 @@
 # HELLO WORLD  :kissing: 👋
-## desse jeito
 - I,M TALLYS!
 
 # How do I develop? 💻
